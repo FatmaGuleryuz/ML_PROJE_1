@@ -23,16 +23,17 @@ Kullanılan Teknolojiler
 Akademik Model: Sınav notları dahil edildiğinde yüksek doğruluk oranı (Yaklaşık %92).
 Sosyal Model: Sadece yaşam tarzı verileriyle erken uyarı imkanı (Yaklaşık %75).
 
--Dosya Yapısı
-student-performance-ml/
-data/student.csv  # Ham veri seti [cite: 3, 11]
-veri_analizi.py   # Streamlit arayüzü ve model kodları [cite: 11]
-notebook.ipynb    # Model geliştirme ve EDA çalışmaları [cite: 11]
-README.md         # Proje dökümantasyonu [cite: 11]
+-Dosya Yapısı  :
+student-performance-ml/,
+data/student.csv  # Ham veri seti [cite: 3, 11],
+veri_analizi.py   # Streamlit arayüzü ve model kodları [cite: 11],
+notebook.ipynb    # Model geliştirme ve EDA çalışmaları [cite: 11],
+README.md         # Proje dökümantasyonu [cite: 11].
 
 
--Kurulum ve Çalıştırma
+-Kurulum ve Çalıştırma/
 Gerekli kütüphaneleri yükleyin:
+
 pip install pandas scikit-learn streamlit 
 
 Uygulamayı başlatın:
