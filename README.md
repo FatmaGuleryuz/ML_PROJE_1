@@ -32,8 +32,9 @@ student-performance-ml/
 ├── veri_analizi.py          # Streamlit arayüzü ve model kodları [cite: 11]
 ├── notebook.ipynb           # Model geliştirme ve EDA çalışmaları [cite: 11]
 └── README.md                # Proje dökümantasyonu [cite: 11]
-🛠️ Kurulum ve Çalıştırma
 
+
+Kurulum ve Çalıştırma
 Gerekli kütüphaneleri yükleyin:
 pip install pandas scikit-learn streamlit 
 
